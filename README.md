@@ -24,7 +24,7 @@
 
 # 📖 Math-Magician Project<a name="about-project"></a>
 
-**Leaderboard ** The Math Magicians App is a directory that shows a calculator with a live user interface and a three-page SPA.
+**Math-magician** The Math Magicians App is a directory that shows a calculator with a live user interface and a three-page SPA.
 
 ## 🛠 Built With <a name="built-with"></a>
 
