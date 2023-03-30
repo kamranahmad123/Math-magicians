@@ -27,20 +27,20 @@
   flex-flow: wrap;
 }
 
-li {
+button {
   background-color: rgb(226, 224, 224);
 }
 
-li:nth-child(17) {
+button:nth-child(17) {
   width: 49.8%;
   padding-left: 25%;
 }
 
-li:nth-child(4),
-li:nth-child(8),
-li:nth-child(12),
-li:nth-child(16),
-li:nth-child(19) {
+button:nth-child(4),
+button:nth-child(8),
+button:nth-child(12),
+button:nth-child(16),
+button:nth-child(19) {
   background-color: rgb(236, 146, 61);
 }
 
@@ -62,7 +62,7 @@ li:nth-child(19) {
     margin-left: 27%;
   }
 
-  li:nth-child(17) {
+  button:nth-child(17) {
     padding: 30px 24.5%;
   }
 
