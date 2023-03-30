@@ -3,12 +3,14 @@
   margin: 0;
   padding: 0;
 }
+
 .App {
   width: 35%;
   height: 730px;
   margin-left: 33%;
   margin-top: 13%;
 }
+
 .button {
   list-style: none;
   border: solid 1px grey;
@@ -18,31 +20,37 @@
   padding-top: 35px;
   padding-left: 11%;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
 }
+
 .buttons {
   display: flex;
-  flex-direction: row;
   flex-flow: wrap;
 }
+
+li {
+  background-color: rgb(226, 224, 224);
+}
+
 li:nth-child(17) {
   width: 49.8%;
   padding-left: 25%;
 }
-li {
-background-color: rgb(226, 224, 224);
+
+li:nth-child(4),
+li:nth-child(8),
+li:nth-child(12),
+li:nth-child(16),
+li:nth-child(19) {
+  background-color: rgb(236, 146, 61);
 }
-li:nth-child(4), li:nth-child(8), li:nth-child(12), li:nth-child(16), li:nth-child(19) {
-  background-color: rgb(236, 146, 61)
-}
+
 .outPut {
   width: 99.6%;
   border: 2px grey solid;
   height: 70px;
-  background-color:  rgb(175, 175, 175);
+  background-color: rgb(175, 175, 175);
   font-size: large;
-  padding-top: 3%;
-  padding-left: 90% ;
+  padding-left: 90%;
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding-top: 25px;
@@ -50,18 +58,21 @@ li:nth-child(4), li:nth-child(8), li:nth-child(12), li:nth-child(16), li:nth-chi
 
 @media only screen and (max-width: 1300px) {
   .App {
-  width: 45%;
-  margin-left: 27%;
-}
-li:nth-child(17) {
-  padding: 30px 24.5%;
-}
-.button {
- padding-top: 30px;
- padding-left: 10%;
-}
-.outPut {
-  padding-left: 84% ; 
-  padding-top: 25px; 
-}
+    width: 45%;
+    margin-left: 27%;
+  }
+
+  li:nth-child(17) {
+    padding: 30px 24.5%;
+  }
+
+  .button {
+    padding-top: 30px;
+    padding-left: 10%;
+  }
+
+  .outPut {
+    padding-left: 84%;
+    padding-top: 25px;
+  }
 }
