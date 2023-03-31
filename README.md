@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-#### <a href="Coming Soon">Coming Soon</a>
+#### <a href="Coming Soon">live link</a>
 
 <!-- GETTING STARTED -->
 
