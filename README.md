@@ -58,7 +58,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-#### <a href="Coming Soon">Coming Soon</a>
+math-magicians-quotes
+<a href="#">Coming soon</a>
 
 <!-- GETTING STARTED -->
 
