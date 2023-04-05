@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="header">
-        <h1 className="topic"><Link to="/">Math Magicians</Link></h1>
+        <h1 className="topic"><Link className="topic2" to="/">Math Magicians</Link></h1>
         <ul className="menu">
           <li className="Menu-icon">
             <Link to="/">Home</Link>
