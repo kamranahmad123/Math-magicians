@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.calculator-Page{
+.calculator-Page {
   width: 45%;
   height: 730px;
   margin-left: 38%;
@@ -69,7 +69,6 @@ button:nth-child(19) {
 }
 
 @media only screen and (max-width: 1300px) {
-
   button:nth-child(17) {
     padding: 30px 24.5%;
   }
