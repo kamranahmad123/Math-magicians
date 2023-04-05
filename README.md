@@ -57,8 +57,10 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-#### <a href="Coming Soon">Coming Soon</a>
+math-magicians-SPA
+<a href="#">Coming soon</a>
 
+development
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
