@@ -4,11 +4,22 @@
   padding: 0;
 }
 
-.App {
-  width: 35%;
-  height: 730px;
-  margin-left: 33%;
-  margin-top: 13%;
+.Calculator-container {
+  width: 90%;
+  margin-left: 2%;
+  margin-top: 90px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.Calculator-part {
+  width: 70%;
+}
+
+.Calculator-header {
+  margin-bottom: 5%;
+  font-size: 30px;
+  width: 60%;
 }
 
 .button {
@@ -50,18 +61,13 @@ button:nth-child(19) {
   height: 70px;
   background-color: rgb(175, 175, 175);
   font-size: large;
-  padding-left: 90%;
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding-top: 25px;
+  padding-right: 5px;
 }
 
 @media only screen and (max-width: 1300px) {
-  .App {
-    width: 45%;
-    margin-left: 27%;
-  }
-
   button:nth-child(17) {
     padding: 30px 24.5%;
   }
@@ -75,21 +81,4 @@ button:nth-child(19) {
     padding-left: 84%;
     padding-top: 25px;
   }
-}
-
-.quotes {
-  font-size: large;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.quotes-author,
-.Response {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  color: crimson;
-  font-size: x-large;
-}
-
-.Quote,
-.Response {
-  margin-top: 20px;
 }

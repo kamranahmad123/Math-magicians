@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import '../styles/Quotes.css';
 
 function DisplayQuotes() {
   const [load, setLoad] = useState(false);
