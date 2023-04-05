@@ -7,8 +7,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-      - [Live Demo Link](#live-demo-link)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Deployment](#deployment)
@@ -53,14 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-math-magicians-SPA
-<a href="#">Coming soon</a>
-
-development
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
