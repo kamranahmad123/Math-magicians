@@ -19,14 +19,16 @@ export default function Calculator() {
   return (
     <div className="Calculator-container">
       <h3 className="Calculator-header">Let`s do some math!</h3>
-      <div dir="rtl" className="outPut">
-        {vauleSet.total}
-        {vauleSet.operation}
-        {vauleSet.next}
-      </div>
-      <ul className="buttons">
-        {calculatorButtons}
-      </ul>
+      <section className="Calculator-part">
+        <div dir="rtl" className="outPut">
+          {vauleSet.total}
+          {vauleSet.operation}
+          {vauleSet.next}
+        </div>
+        <ul className="buttons">
+          {calculatorButtons}
+        </ul>
+      </section>
     </div>
   );
 }
