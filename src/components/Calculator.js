@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import calculate from '../logic/calculate';
+import '../styles/Calculator.css';
 
 const entryObj = {
   total: 0,
@@ -17,6 +18,7 @@ export default function Calculator() {
   const calculatorButtons = dataArray.map((element) => <button className="button" key={element} type="button" onClick={clickHandler}>{element}</button>);
   return (
     <div className="Calculator-container">
+      <h3 className="Calculator-header">Let`s do some math!</h3>
       <div dir="rtl" className="outPut">
         {vauleSet.total}
         {vauleSet.operation}

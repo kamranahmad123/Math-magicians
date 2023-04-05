@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    padding-top: 15px;
+    list-style: none;
+    color: blue;
+}
+
+.topic {
+    padding-top: 10px;
+    margin-left: 2%;
+    font-size: 40px;
+}
+
+.Menu-icon {
+    border-right: 3px solid ;
+    padding-top: 10px;
+    padding-right: 5px;
+    cursor: pointer;
+}
