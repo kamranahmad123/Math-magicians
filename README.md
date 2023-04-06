@@ -11,7 +11,6 @@
     - [Setup](#setup)
     - [Deployment](#deployment)
   - [👥 Authors](#-authors)
-  - [👥 Authors](#-authors-1)
   - [🔭 Future-feature ](#-future-feature-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -97,6 +96,12 @@ __Kamran Ahmad__
 - GitHub: [@githubhandle](https://github.com/kamranahmad123) 
 - Twitter: [@twitterhandle](https://twitter.com/handel)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamran-khan-9a293b113/)
+
+👤 **Saw Mon Han**
+
+- GitHub: [@sawmon](https://github.com/sawmon71293/)
+- Twitter: [@Twitterhandle](https://twitter.com/sawmon34268255)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saw-mon-han/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
