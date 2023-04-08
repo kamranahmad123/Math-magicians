@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test quotes test if quotes page really matches 1`] = `
+<div
+  className="Quote"
+/>
+`;

@@ -7,13 +7,10 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-      - [Live Demo Link](#live-demo-link)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Deployment](#deployment)
   - [👥 Authors](#-authors)
-  - [👥 Authors](#-authors-1)
   - [🔭 Future-feature ](#-future-feature-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -24,7 +21,7 @@
 
 # 📖 Math-Magician Project<a name="about-project"></a>
 
-**Math-magician** The Math Magicians App is a directory that shows a calculator with a live user interface and a three-page SPA.
+**Math-magician** The Math Magicians App is a directory that shows a calculator with a live user interface and a three-page SPA. in addition it include the quotes section to generte quotes and the pages are navigated throught react router.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,17 +45,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Calculator to be seen on the calculator website**
-- **A greeting is on the theme page**
-- **section of Quote that generates random quotations**
+- **Calculator performs arthimatic operations**
+- **The quotes section generate quotes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-#### <a href="Coming Soon">Coming Soon</a>
 
 <!-- GETTING STARTED -->
 
@@ -106,6 +96,12 @@ __Kamran Ahmad__
 - GitHub: [@githubhandle](https://github.com/kamranahmad123) 
 - Twitter: [@twitterhandle](https://twitter.com/handel)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamran-khan-9a293b113/)
+
+👤 **Saw Mon Han**
+
+- GitHub: [@sawmon](https://github.com/sawmon71293/)
+- Twitter: [@Twitterhandle](https://twitter.com/sawmon34268255)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saw-mon-han/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

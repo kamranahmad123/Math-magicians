@@ -4,11 +4,22 @@
   padding: 0;
 }
 
-.App {
-  width: 35%;
-  height: 730px;
-  margin-left: 33%;
-  margin-top: 13%;
+.Calculator-container {
+  width: 90%;
+  margin-left: 2%;
+  margin-top: 90px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.Calculator-part {
+  width: 70%;
+}
+
+.Calculator-header {
+  margin-bottom: 5%;
+  font-size: 30px;
+  width: 60%;
 }
 
 .button {
@@ -27,20 +38,20 @@
   flex-flow: wrap;
 }
 
-li {
+button {
   background-color: rgb(226, 224, 224);
 }
 
-li:nth-child(17) {
+button:nth-child(17) {
   width: 49.8%;
   padding-left: 25%;
 }
 
-li:nth-child(4),
-li:nth-child(8),
-li:nth-child(12),
-li:nth-child(16),
-li:nth-child(19) {
+button:nth-child(4),
+button:nth-child(8),
+button:nth-child(12),
+button:nth-child(16),
+button:nth-child(19) {
   background-color: rgb(236, 146, 61);
 }
 
@@ -50,19 +61,14 @@ li:nth-child(19) {
   height: 70px;
   background-color: rgb(175, 175, 175);
   font-size: large;
-  padding-left: 90%;
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   padding-top: 25px;
+  padding-right: 5px;
 }
 
 @media only screen and (max-width: 1300px) {
-  .App {
-    width: 45%;
-    margin-left: 27%;
-  }
-
-  li:nth-child(17) {
+  button:nth-child(17) {
     padding: 30px 24.5%;
   }
 
